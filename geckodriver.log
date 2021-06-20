@@ -1,0 +1,54 @@
+1624196853209	geckodriver	INFO	Listening on 127.0.0.1:64363
+1624196853745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kumard\\AppData\\Local\\Temp\\rust_mozprofileIy976S"
+1624196855474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kumard\\AppData\\Local\\Temp\\rust_mozprofileIy976S\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624196858950	Marionette	INFO	Listening on port 64368
+1624196859074	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.phptravels.net/home, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/home, line 995: SyntaxError: missing ) after argument list
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/home, line 3475: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/home, line 3581: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 3606: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 3631: ReferenceError: fmt is not defined
+1624196866459	Marionette	INFO	Stopped listening on port 64368
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624196867520	geckodriver	INFO	Listening on 127.0.0.1:64409
+1624196868059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\kumard\\AppData\\Local\\Temp\\rust_mozprofilel8AMXP"
+1624196868696	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kumard\\AppData\\Local\\Temp\\rust_mozprofilel8AMXP\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1624196871942	Marionette	INFO	Listening on port 64415
+1624196872265	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.phptravels.net/home, line 25: TypeError: document.getElementById(...) is null
+JavaScript error: https://www.phptravels.net/home, line 995: SyntaxError: missing ) after argument list
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/home, line 3475: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/home, line 3581: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 3606: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/home, line 3631: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/login, line 25: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/login, line 716: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/login, line 822: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/login, line 847: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/login, line 872: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/account/, line 25: TypeError: document.getElementById(...) is null
+JavaScript warning: https://www.phptravels.net/themes/default/assets/js/plugins.js, line 3317: unreachable code after return statement
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/plugins/infobox.js line 8 > eval, line 1: ReferenceError: google is not defined
+JavaScript error: https://www.phptravels.net/account/, line 1765: SyntaxError: expected expression, got ','
+JavaScript error: https://www.phptravels.net/account/, line 1871: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/account/, line 1896: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/account/, line 1921: ReferenceError: fmt is not defined
+JavaScript error: https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js, line 8: ReferenceError: google is not defined
+1624196886555	Marionette	INFO	Stopped listening on port 64415
