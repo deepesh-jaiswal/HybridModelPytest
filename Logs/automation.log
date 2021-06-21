@@ -1,0 +1,24 @@
+2021-06-21 17:29:13,306: INFO: ************test_HomePage started****************
+2021-06-21 17:29:13,306: INFO: ************test_HomePage started****************
+2021-06-21 17:29:13,306: INFO: ************test_HomePage started****************
+2021-06-21 17:29:23,757: INFO: test passed as 'PHPTRAVELS | Travel Technology Partner' equals to 'PHPTRAVELS | Travel Technology Partner'
+2021-06-21 17:29:23,757: INFO: test passed as 'PHPTRAVELS | Travel Technology Partner' equals to 'PHPTRAVELS | Travel Technology Partner'
+2021-06-21 17:29:23,757: INFO: test passed as 'PHPTRAVELS | Travel Technology Partner' equals to 'PHPTRAVELS | Travel Technology Partner'
+2021-06-21 17:29:26,529: INFO: ************test_Login started****************
+2021-06-21 17:29:26,529: INFO: ************test_Login started****************
+2021-06-21 17:29:26,529: INFO: ************test_Login started****************
+2021-06-21 17:29:44,275: INFO: test passed as 'My Account' equals to 'My Account'
+2021-06-21 17:29:44,275: INFO: test passed as 'My Account' equals to 'My Account'
+2021-06-21 17:29:44,275: INFO: test passed as 'My Account' equals to 'My Account'
+2021-06-21 17:33:16,908: INFO: ************test_HomePage started****************
+2021-06-21 17:33:26,099: INFO: test passed as 'PHPTRAVELS | Travel Technology Partner' equals to 'PHPTRAVELS | Travel Technology Partner'
+2021-06-21 17:33:28,500: INFO: ************test_LoginPage started****************
+2021-06-21 17:33:41,604: INFO: test passed as 'Login' equals to 'Login'
+2021-06-21 17:33:43,809: INFO: ************test_Login started****************
+2021-06-21 17:34:00,887: INFO: test passed as 'My Account' equals to 'My Account'
+06212021061257PM: INFO: ************test_HomePage started****************
+06212021061307PM: INFO: test passed as 'PHPTRAVELS | Travel Technology Partner' equals to 'PHPTRAVELS | Travel Technology Partner'
+06212021061309PM: INFO: ************test_LoginPage started****************
+06212021061321PM: INFO: test passed as 'Login' equals to 'Login'
+06212021061323PM: INFO: ************test_Login started****************
+06212021061339PM: INFO: test passed as 'My Account' equals to 'My Account'

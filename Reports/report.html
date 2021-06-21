@@ -243,7 +243,7 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
 }
 </script>
     <h1>report.html</h1>
-    <p>Report generated on 20-Jun-2021 at 20:15:49 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
+    <p>Report generated on 21-Jun-2021 at 18:13:42 by <a href="https://pypi.python.org/pypi/pytest-html">pytest-html</a> v3.1.1</p>
     <h2>Environment</h2>
     <table id="environment">
       <tr>
@@ -265,8 +265,8 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <td>Tester</td>
         <td>Deepesh</td></tr></table>
     <h2>Summary</h2>
-    <p>2 tests ran in 31.01 seconds. </p>
-    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">2 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
+    <p>3 tests ran in 46.41 seconds. </p>
+    <p class="filter" hidden="true">(Un)check the boxes to filter the results.</p><input checked="true" class="filter" data-test-result="passed" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="passed">3 passed</span>, <input checked="true" class="filter" data-test-result="skipped" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="skipped">0 skipped</span>, <input checked="true" class="filter" data-test-result="failed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="failed">0 failed</span>, <input checked="true" class="filter" data-test-result="error" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="error">0 errors</span>, <input checked="true" class="filter" data-test-result="xfailed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xfailed">0 expected failures</span>, <input checked="true" class="filter" data-test-result="xpassed" disabled="true" hidden="true" name="filter_checkbox" onChange="filterTable(this)" type="checkbox"/><span class="xpassed">0 unexpected passes</span>
     <h2>Results</h2>
     <table id="results-table">
       <thead id="results-table-head">
@@ -281,17 +281,35 @@ function filterTable(elem) { // eslint-disable-line no-unused-vars
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_Login.py::TestLogin::test_HomePage</td>
-          <td class="col-duration">11.49</td>
+          <td class="col-duration">12.23</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody>
+            <div class="log"> ------------------------------Captured stderr call------------------------------ <br/>06212021061257PM: INFO: ************test_HomePage started****************
+06212021061307PM: INFO: test passed as &#x27;PHPTRAVELS | Travel Technology Partner&#x27; equals to &#x27;PHPTRAVELS | Travel Technology Partner&#x27;
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login.py:18 ************test_HomePage started****************
+INFO     root:test_Login.py:25 test passed as &#x27;PHPTRAVELS | Travel Technology Partner&#x27; equals to &#x27;PHPTRAVELS | Travel Technology Partner&#x27;<br/></div></td></tr></tbody>
+      <tbody class="passed results-table-row">
+        <tr>
+          <td class="col-result">Passed</td>
+          <td class="col-name">test_Login.py::TestLogin::test_LoginPage</td>
+          <td class="col-duration">13.56</td>
+          <td class="col-links"></td></tr>
+        <tr>
+          <td class="extra" colspan="4">
+            <div class="log"> ------------------------------Captured stderr call------------------------------ <br/>06212021061309PM: INFO: ************test_LoginPage started****************
+06212021061321PM: INFO: test passed as &#x27;Login&#x27; equals to &#x27;Login&#x27;
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login.py:35 ************test_LoginPage started****************
+INFO     root:test_Login.py:45 test passed as &#x27;Login&#x27; equals to &#x27;Login&#x27;<br/></div></td></tr></tbody>
       <tbody class="passed results-table-row">
         <tr>
           <td class="col-result">Passed</td>
           <td class="col-name">test_Login.py::TestLogin::test_Login</td>
-          <td class="col-duration">18.68</td>
+          <td class="col-duration">20.56</td>
           <td class="col-links"></td></tr>
         <tr>
           <td class="extra" colspan="4">
-            <div class="empty log">No log output captured.</div></td></tr></tbody></table></body></html>
+            <div class="log"> ------------------------------Captured stderr call------------------------------ <br/>06212021061323PM: INFO: ************test_Login started****************
+06212021061339PM: INFO: test passed as &#x27;My Account&#x27; equals to &#x27;My Account&#x27;
+<br/> -------------------------------Captured log call-------------------------------- <br/>INFO     root:test_Login.py:55 ************test_Login started****************
+INFO     root:test_Login.py:69 test passed as &#x27;My Account&#x27; equals to &#x27;My Account&#x27;<br/></div></td></tr></tbody></table></body></html>

@@ -3,7 +3,7 @@ from selenium import webdriver
 
 @pytest.fixture()
 def setup(browser):
-    if browser == "Oprera":
+    if browser == "Opera":
         driver = webdriver.Opera(executable_path=".\\Drivers\\operadriver.exe")
     elif browser == "Firefox":
         driver = webdriver.Firefox(executable_path=".\\Drivers\\geckodriver.exe")
